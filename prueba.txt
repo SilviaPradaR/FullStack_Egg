@@ -1,1 +1,2 @@
-Hola Mundo!
+Hola!
+Este es el día de inicialización del curso Full Stack.
